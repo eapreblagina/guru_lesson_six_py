@@ -1,0 +1,1 @@
+# guru_lesson_six_py
